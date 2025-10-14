@@ -69,3 +69,18 @@ footer {
     padding: 15px;
     font-size: 0.9em;
 }
+
+footer p {
+   background-color: #002b5c;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+footer p2 {
+    .text-white{
+        color: #fff !important;
+    }
+}
